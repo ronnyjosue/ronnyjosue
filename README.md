@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @ronnyjosue
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 ronnyjosue/ronnyjosue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,27 +7,34 @@ You can click the Preview link to take a look at your changes.
 <!doctype html>
 <html> 
  <head> 
-  <title>aprecentaçao</title> 
+  <title>aprecentaçao</title>
+  <link rel="stylesheet" href="style.css">
+
  </head> 
  <body> 
   <center> 
    <h1>desigualdade social</h1> 
   </center> 
   <center> 
-   <section> 
-    <img src="https://drive.google.com/thumbnail?id=1LbMpp83e7jHQsHfl67iu5TgLWHJFneDz" style="border-radius: 10px" ;> 
-    <img src="https://drive.google.com/thumbnail?id=
-1Lju9zDBjmGnBmiGR9by8W9lEwUJBBtyw" style="border-radius: 10px" ;> 
-    <img src="https://drive.google.com/thumbnail?id=
-1LQ4dx4bI-iufFihfvdoCyyYyUJVUXi54" style="border-radius: 10px" ;> 
+   <section>
+    
+   <img src="https://drive.google.com/thumbnail?id=1LbMpp83e7jHQsHfl67iu5TgLWHJFneDz" style="border-radius: 10px" ;> 
+   
+   <img src="https://drive.google.com/thumbnail?id=1Lju9zDBjmGnBmiGR9by8W9lEwUJBBtyw" style="border-radius: 10px" ;> 
+   <img src="https://drive.google.com/thumbnail?id=1LQ4dx4bI-iufFihfvdoCyyYyUJVUXi54" style="border-radius: 10px" ;>
+   
    </section> 
+
   </center> 
+  
   <center> 
    <h2 class="cursiva">causas </h2> 
   </center> 
   <h3 class="cursiva"> 1. Educacao: A falta de acesso a educacao de qualidade pode limitar as oportunidades de emprego e mobilidade social.<br> 2. Discriminacao:A discriminacao baseada em raça, genero, orientacao sexual, religiao, entre outros fatores, pode limitar o acesso a oportunidades e recursos.<br> 3. corrupcao:A corrupcao pode levar a uma distribuicao desigual de recursos e oportunidades<br> 4. Concentracao de riqueza:A concentracao de riqueza em poucas maos pode levar a uma distribuicao desigual de recursos e oportunidades. </h3> 
   <center> 
-   <img class="img1" src="https://drive.google.com/thumbnail?id=1NijkPlDFVf2lRIluk27Jsfjm_HRbLhY1" style="border-radius: 10px;"> 
+   
+  
+  <img class="img1" src="https://drive.google.com/thumbnail?id=1NijkPlDFVf2lRIluk27Jsfjm_HRbLhY1" style="border-radius: 10px;"> 
   </center> 
   <center> 
    <h2>Consequencias</h2> 
@@ -45,6 +46,8 @@ You can click the Preview link to take a look at your changes.
   </center> 
  </body>
 </html>
+
+
 
 html {
    background: linear-gradient(to right, dodgerblue 0%, deepskyblue 100%);
